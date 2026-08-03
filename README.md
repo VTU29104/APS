@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/VTU29104/APS/tree/master/0023-merge-k-sorted-lists) |
+| [0641-design-circular-deque](https://github.com/VTU29104/APS/tree/master/0641-design-circular-deque) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -17,4 +18,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/VTU29104/APS/tree/master/0023-merge-k-sorted-lists) |
+## Array
+|  |
+| ------- |
+| [0641-design-circular-deque](https://github.com/VTU29104/APS/tree/master/0641-design-circular-deque) |
+## Design
+|  |
+| ------- |
+| [0641-design-circular-deque](https://github.com/VTU29104/APS/tree/master/0641-design-circular-deque) |
+## Queue
+|  |
+| ------- |
+| [0641-design-circular-deque](https://github.com/VTU29104/APS/tree/master/0641-design-circular-deque) |
 <!---LeetCode Topics End-->
