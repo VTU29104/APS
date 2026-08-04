@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0496-next-greater-element-i](https://github.com/VTU29104/APS/tree/master/0496-next-greater-element-i) |
 | [0641-design-circular-deque](https://github.com/VTU29104/APS/tree/master/0641-design-circular-deque) |
 ## Design
 |  |
@@ -38,4 +39,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/VTU29104/APS/tree/master/0344-reverse-string) |
+## Hash Table
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/VTU29104/APS/tree/master/0496-next-greater-element-i) |
+## Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/VTU29104/APS/tree/master/0496-next-greater-element-i) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/VTU29104/APS/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
